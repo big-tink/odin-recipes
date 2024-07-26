@@ -122,3 +122,12 @@ body {
     font-size: 18px;
     color: brown;
 }
+
+/* frozen pizza specific */
+
+.imagefp {
+    border: 2px rgb(53, 34, 0) double;
+    width: 550px;
+    height: auto;
+    margin: 0 24px;
+}
