@@ -99,3 +99,26 @@ body {
     padding-top: 20px;
     border-top: 1px black solid;
 }
+
+/* grilled cheese specific */
+
+.headergc {
+    font-size: 50px;
+    border: 5px rgb(54, 56, 36) double;
+    padding: 10px 30px;
+    width: 400px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.imagegc {
+    border: 2px black double;
+    width: 550px;
+    height: auto;
+    margin: 0 24px;
+}
+
+.note {
+    font-size: 18px;
+    color: brown;
+}
