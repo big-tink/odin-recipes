@@ -43,7 +43,7 @@ body {
     padding: 0;
 }
 
-.food {
+.food.home {
     margin: 10px;
     font-size: 26px;
 }
@@ -53,4 +53,27 @@ body {
     border: 3px rgb(0, 0, 0) dotted;
     margin: 0 50px;
     width: 250px;
+}
+
+/* french toast page specific */
+
+.descriptionft {
+    border: 3px rgb(90, 53, 10) double;
+    padding: 5px 15px;
+    width: 200px;
+    margin: 20px auto;
+    font-size: 18px;
+    text-align: center;
+}
+
+.imageft {
+    border: 2px black double;
+    width: 550px;
+    height: auto;
+    margin: 0 24px;
+}
+
+.food {
+    margin: 10px;
+    font-size: 16px;
 }
